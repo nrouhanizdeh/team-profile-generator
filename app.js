@@ -117,6 +117,7 @@ function question() {
           type: "input",
           name: "name",
           message: "What is the intern's name?",
+        },
         {
           type: "input",
           name: "id",
